@@ -25,5 +25,5 @@ A bevy of upgrades:
 It took a few tutorials to get this far, might as well use this as springboard for a your first browser action extension. 
 
 ### License
-Fancy Settings is licensed under the **LGPL 2.1**.  
+Adsclown is licensed under the **LGPL 2.1**.  
 For details see *LICENSE.txt*
