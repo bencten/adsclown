@@ -3,7 +3,7 @@
 
 **Welcome to AdsClown! ** 
 
-*Trust me, I love my credit union, but I hate their ads, and other stupid crap that they push on me. This quick little extension gets rid of my most hated ads and replaces them with ... nothing!And nothing is good.*
+*Trust me, I love my credit union, but I hate their ads, and other stupid crap that they push on me. This quick little extension gets rid of my most hated ads and replaces them with ... nothing! And nothing is good.*
 
 ### What is replaced?
 - # [MOGL](https://www.mogl.com/)
